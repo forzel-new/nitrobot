@@ -1,5 +1,7 @@
 # -*- coding: utf8 -*-
 
+# Код как вы видите старый, по-этому не удивляйтесь присутствующему тут говнокоду
+
 import discord
 from discord import *
 from discord.ext import commands
